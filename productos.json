@@ -1,0 +1,29 @@
+[
+	{
+	"id":"1",
+	"nombre":"producto 1",
+	"ruta_imagen":"https:\/\/via.placeholder.com\/100X100",
+	"descripcion":"ok",
+	"caracteristicas":"ok",
+	"precio":"1200",
+	"stock":"4"
+	},
+{
+	"id":"2",
+	"nombre":"producto 2",
+	"ruta_imagen":"https:\/\/via.placeholder.com\/100X100",
+	"descripcion":"ok",
+	"caracteristicas":"ok",
+	"precio":"5000",
+	"stock":"20"
+	},
+{
+	"id":"3",
+	"nombre":"producto 3",
+	"ruta_imagen":"https:\/\/via.placeholder.com\/100X100",
+	"descripcion":"ok",
+	"caracteristicas":"ok",
+	"precio":"1000",
+	"stock":"14"
+	}
+]
